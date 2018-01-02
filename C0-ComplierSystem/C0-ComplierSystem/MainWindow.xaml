@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:C0_ComplierSystem"
         mc:Ignorable="d"
-        Title="MainWindow" Height="654.915" Width="1433.977">
-    <Grid>
+        Title="MainWindow" Height="695.415" Width="1445.977">
+    <Grid Height="608" VerticalAlignment="Top">
         <Grid.RowDefinitions>
             <RowDefinition Height="191*"/>
             <RowDefinition Height="433*"/>
